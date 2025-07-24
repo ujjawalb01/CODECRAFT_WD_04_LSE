@@ -1,0 +1,26 @@
+.cartList {
+  margin: 2rem 0;
+}
+
+.cartItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  padding: 1rem 1.6rem;
+  border-radius: 7px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin-bottom: 13px;
+}
+
+.productQty {
+  max-width: 55px;
+  text-align: center;
+}
+
+.cartTotal {
+  margin-top: 1.4rem;
+  font-size: 1.1rem;
+  color: #0b73c9;
+  font-weight: 700;
+}
